@@ -114,7 +114,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2D4OBbb' target='_blank'><img src='https://rawgithub.com/hoilephan/golden-3/master/ad-golden-center-city.jpg' width='500px'/><br/>Chính thức nhận giữ chỗ dự án Golden Center City 3 </a>Liên hệ: 0902 235 237<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2D4OBbb' target='_blank'><img src='https://rawgithub.com/hoilephan/golden-3/master/ad-golden-center-city.jpg' width='500px'/><br/>Chính thức nhận giữ chỗ dự án Golden Center City 3 </a>Đất nền thương mại<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
